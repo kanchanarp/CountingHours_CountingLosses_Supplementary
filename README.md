@@ -27,3 +27,5 @@ In the *Additional Experiments* Directory
 2. *Appendix B.3 (Real-world Educational-based Patience Factors):* High_School_Diploma_and_Patience_in_Consumption.ipynb, College_Degree_and_Patience_in_Consumption.ipynb
 3. *Appendix B.4 (Real-world Return Rates on Liquid Assets):* Consumption_with_Asset_Returns_Following_Cash_Rates.ipynb, Consumption_with_Asset_Returns_Following_Stock_Rates.ipynb
 4. *Appendix B.5 (More Real-world Shock Profile Case Studies):* Exploring_Shocks.ipynb
+
+**Supplementary:** Counting Hours, Counting Losses - Appendix.pdf
