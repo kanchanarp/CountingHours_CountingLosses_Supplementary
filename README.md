@@ -2,7 +2,7 @@
 
 **Paper Title:** Counting Hours, Counting Losses: The Toll of Unpredictable Work Schedules on Financial Security
 
-**Publication Link:** [TBA]
+**OpenReview Link:** https://openreview.net/forum?id=PEZz2i9kiP
 
 **Abstract:**
 
